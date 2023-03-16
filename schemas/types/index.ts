@@ -1,0 +1,2 @@
+export { artist } from './artist'
+
